@@ -1,0 +1,10 @@
+data/
+details/
+processed/
+*.csv
+*.json
+*.parquet
+*.log
+
+
+
