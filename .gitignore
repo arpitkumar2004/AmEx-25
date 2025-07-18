@@ -7,7 +7,6 @@ processed/
 *.log
 
 
-*.txt
 *.ipynb_checkpoints
 
 venv/
